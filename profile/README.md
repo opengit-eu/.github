@@ -7,4 +7,5 @@ fantastic community efforts like Codeberg and our platform's core Forgejo.
 Want to learn more? ♥️
 
 You can use our service at https://opencommit.eu
+
 Learn more about the foundation, see our reporting and learn how you can contribute at https://opencommit.nl
